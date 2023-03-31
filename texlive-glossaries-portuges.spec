@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-portuges
 Version:	36064
-Release:	1
+Release:	2
 Summary:	Portuges language module for glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-portuges
