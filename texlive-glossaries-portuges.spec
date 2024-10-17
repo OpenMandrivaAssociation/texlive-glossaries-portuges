@@ -3,7 +3,7 @@ Version:	36064
 Release:	2
 Summary:	Portuges language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-portuges
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-portuges
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-portuges.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-portuges.doc.r%{version}.tar.xz
